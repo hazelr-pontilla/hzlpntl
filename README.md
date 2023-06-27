@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h3 align="center">I am an engineering student and designer student based in Palo, Leyte Philippines. I have profound interest in frontend development, UI / UX Design and everything in between bringing products to life.</h3>
+<h3 align="center">I am an engineering student and web designer based in Palo, Leyte Philippines. I have profound interest in frontend development, UI / UX Design and everything in between bringing products to life.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/hisilpontiya](https://www.behance.net/hisilpontiya)
 
